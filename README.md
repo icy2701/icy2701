@@ -9,12 +9,12 @@ Incoming MSc Computer Science student at RPTU Kaiserslautern-Landau.
 
 ## Projects
 
-**[Text-to-SQL](https://github.com/icy2701/text-to-sql)** — 
+**[Text-to-SQL](https://github.com/icy2701/text-to-sql)** -
 Converts plain English questions into SQL using Groq API + Llama 3.3 70B. Auto-extracts schema at runtime. 
 Self-correction loop retries failed queries automatically. 
 [Live demo](https://huggingface.co/spaces/icy2701/text-to-sql)
 
-**[RAG Document QA](https://github.com/icy2701/RAG-DOCUMENT-QA)** — 
+**[RAG Document QA](https://github.com/icy2701/RAG-DOCUMENT-QA)** -
 Full RAG pipeline with 384-dim FAISS vector search, local Flan-T5 LLM, source attribution on every answer, 
 and live document ingestion via FastAPI. Dockerised with GitHub Actions CI/CD. 
 [Docker Hub](https://hub.docker.com/r/aisi27/rag-document-qa)
@@ -27,8 +27,8 @@ and live document ingestion via FastAPI. Dockerised with GitHub Actions CI/CD.
 Bengaluru, India and Riyadh, Saudi Arabia
 
 - ML-based anomaly detection on financial reporting pipelines across multi-terabyte datasets
-- Designed 50+ analytical data models for Profitability and Funds Transfer Pricing — 25% improvement in cost-allocation accuracy
-- Automated reconciliation workflows using Python and Shell scripting — 80% reduction in manual intervention
+- Designed 50+ analytical data models for Profitability and Funds Transfer Pricing - 25% improvement in cost-allocation accuracy
+- Automated reconciliation workflows using Python and Shell scripting - 80% reduction in manual intervention
 - Built OBIEE dashboards integrating predictive KPIs for executive decision-making
 - 30% improvement in SQL processing efficiency through indexing and query optimisation
 
